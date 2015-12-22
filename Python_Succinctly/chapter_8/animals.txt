@@ -1,0 +1,7 @@
+toad
+bear
+pig
+cow
+duck
+horse
+dog
